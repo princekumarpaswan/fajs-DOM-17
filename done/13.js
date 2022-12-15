@@ -1,0 +1,1 @@
+document.querySelector("#primary .entry-content .fl-row .fl-module ").innerText = "Js Bootcamp"

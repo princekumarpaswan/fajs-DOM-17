@@ -1,0 +1,1 @@
+document.querySelector(".header .wrapper .logo").href = "https://ineuron.ai/images/ineuron-logo.png";

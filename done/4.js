@@ -1,0 +1,1 @@
+let newNum = document.querySelector("#footer .container-infinite .contact-us .customer-support .one-tel-number ").innerText = "4548484848"

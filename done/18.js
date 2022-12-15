@@ -1,0 +1,1 @@
+let xDate = document.querySelector(".btn-large").innerText = new Date();

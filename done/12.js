@@ -1,0 +1,1 @@
+document.querySelector(".js-with-permission-fields .btn-primary").style.backgroundColor = "blue"
